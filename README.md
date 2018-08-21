@@ -1,1 +1,1 @@
-# SheduleShukhovUniversity
+# Shedule_of_Shukhov_University
